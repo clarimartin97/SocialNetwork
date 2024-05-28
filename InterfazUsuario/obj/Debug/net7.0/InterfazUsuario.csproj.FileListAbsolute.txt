@@ -1,0 +1,36 @@
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\bin\Debug\net7.0\InterfazUsuario.exe
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\bin\Debug\net7.0\InterfazUsuario.deps.json
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\bin\Debug\net7.0\InterfazUsuario.runtimeconfig.json
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\bin\Debug\net7.0\InterfazUsuario.dll
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\bin\Debug\net7.0\InterfazUsuario.pdb
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\bin\Debug\net7.0\LogicaNegocio.dll
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\bin\Debug\net7.0\LogicaNegocio.pdb
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.csproj.AssemblyReference.cache
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.AssemblyInfoInputs.cache
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.AssemblyInfo.cs
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.csproj.CoreCompileInputs.cache
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.csproj.CopyComplete
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.dll
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\obj\Debug\net7.0\refint\InterfazUsuario.dll
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.pdb
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.genruntimeconfig.cache
+D:\Facultad ORT\Obligatorio1\InterfazUsuario\obj\Debug\net7.0\ref\InterfazUsuario.dll
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\bin\Debug\net7.0\InterfazUsuario.exe
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\bin\Debug\net7.0\InterfazUsuario.deps.json
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\bin\Debug\net7.0\InterfazUsuario.runtimeconfig.json
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\bin\Debug\net7.0\InterfazUsuario.dll
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\bin\Debug\net7.0\InterfazUsuario.pdb
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\bin\Debug\net7.0\LogicaNegocio.dll
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\bin\Debug\net7.0\LogicaNegocio.pdb
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.csproj.AssemblyReference.cache
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.AssemblyInfoInputs.cache
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.AssemblyInfo.cs
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.csproj.CopyComplete
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.dll
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\obj\Debug\net7.0\refint\InterfazUsuario.dll
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.pdb
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\obj\Debug\net7.0\InterfazUsuario.genruntimeconfig.cache
+C:\Users\Clara\Desktop\SocialNetWork\InterfazUsuario\obj\Debug\net7.0\ref\InterfazUsuario.dll

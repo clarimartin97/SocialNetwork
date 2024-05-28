@@ -1,0 +1,22 @@
+D:\Facultad ORT\Obligatorio1\LogicaNegocio\bin\Debug\net7.0\LogicaNegocio.deps.json
+D:\Facultad ORT\Obligatorio1\LogicaNegocio\bin\Debug\net7.0\LogicaNegocio.dll
+D:\Facultad ORT\Obligatorio1\LogicaNegocio\bin\Debug\net7.0\LogicaNegocio.pdb
+D:\Facultad ORT\Obligatorio1\LogicaNegocio\obj\Debug\net7.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad ORT\Obligatorio1\LogicaNegocio\obj\Debug\net7.0\LogicaNegocio.AssemblyInfoInputs.cache
+D:\Facultad ORT\Obligatorio1\LogicaNegocio\obj\Debug\net7.0\LogicaNegocio.AssemblyInfo.cs
+D:\Facultad ORT\Obligatorio1\LogicaNegocio\obj\Debug\net7.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Facultad ORT\Obligatorio1\LogicaNegocio\obj\Debug\net7.0\LogicaNegocio.dll
+D:\Facultad ORT\Obligatorio1\LogicaNegocio\obj\Debug\net7.0\refint\LogicaNegocio.dll
+D:\Facultad ORT\Obligatorio1\LogicaNegocio\obj\Debug\net7.0\LogicaNegocio.pdb
+D:\Facultad ORT\Obligatorio1\LogicaNegocio\obj\Debug\net7.0\ref\LogicaNegocio.dll
+C:\Users\Clara\Desktop\SocialNetWork\LogicaNegocio\bin\Debug\net7.0\LogicaNegocio.deps.json
+C:\Users\Clara\Desktop\SocialNetWork\LogicaNegocio\bin\Debug\net7.0\LogicaNegocio.dll
+C:\Users\Clara\Desktop\SocialNetWork\LogicaNegocio\bin\Debug\net7.0\LogicaNegocio.pdb
+C:\Users\Clara\Desktop\SocialNetWork\LogicaNegocio\obj\Debug\net7.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clara\Desktop\SocialNetWork\LogicaNegocio\obj\Debug\net7.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Clara\Desktop\SocialNetWork\LogicaNegocio\obj\Debug\net7.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\Clara\Desktop\SocialNetWork\LogicaNegocio\obj\Debug\net7.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Clara\Desktop\SocialNetWork\LogicaNegocio\obj\Debug\net7.0\LogicaNegocio.dll
+C:\Users\Clara\Desktop\SocialNetWork\LogicaNegocio\obj\Debug\net7.0\refint\LogicaNegocio.dll
+C:\Users\Clara\Desktop\SocialNetWork\LogicaNegocio\obj\Debug\net7.0\LogicaNegocio.pdb
+C:\Users\Clara\Desktop\SocialNetWork\LogicaNegocio\obj\Debug\net7.0\ref\LogicaNegocio.dll
